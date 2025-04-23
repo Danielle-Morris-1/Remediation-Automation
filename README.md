@@ -1,4 +1,4 @@
-📁 This folder houses all the code for our remediation scripts, including:
+📁 This folder houses all the code for my remediation scripts, including:
 
 * 💻 PowerShell scripts (`.ps1`)
 * ⚙️ Bash scripts (`.sh`)
